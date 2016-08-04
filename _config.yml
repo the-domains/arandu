@@ -1,0 +1,14 @@
+layout_spectrum: 0.25255370745435357
+typography_spectrum: 0.5341716362163424
+color:
+  brandStrength: 0.054131314158439636
+  lightness: 0.9833068228326738
+  saturation: 0.762897628126666
+  rhythmicContrast: 0.24351409589871764
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: arandu
